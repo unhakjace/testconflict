@@ -5,7 +5,7 @@ import adminnav from '../views/adminnav.vue';
 </script>
 
 <template>
-  <div class="ad">
+  <div class="adminblalalal">
     
   </div>
   <div>
